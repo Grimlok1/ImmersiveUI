@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="IMMERSIVEUI_TOGGLE" header="IMMERSIVEUI">
+        ImmersiveUI_Toggle()
+    </Binding>
+</Bindings>

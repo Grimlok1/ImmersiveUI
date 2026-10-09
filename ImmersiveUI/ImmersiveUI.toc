@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: ImmersiveUI
+## Notes: Fades the UI while out of combat with no target.
+## Author: Milo
+## Version: 0.2.0
+## SavedVariables: ImmersiveUIDB
+
+ImmersiveUI.lua
